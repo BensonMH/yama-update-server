@@ -6,12 +6,6 @@
     "target_dir": "main"
   },
   "modules": {
-    "accountingitems": {
-      "version": "1.0.0",
-      "filename": "module_accountingitems-v1.0.0.zip",
-      "sha256": "b52da212d5ba8a568093024ce8368e4adcd1b0a271d4af24758d70b3f5bf7f7b",
-      "target_dir": "modules/accountingitems-management"
-    },
     "construction": {
       "version": "1.0.0",
       "filename": "module_construction-v1.0.0.zip",
