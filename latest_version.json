@@ -1,0 +1,58 @@
+{
+  "main": {
+    "version": "1.0.1",
+    "filename": "main_v1.0.1.zip",
+    "sha256": "3b682...(此主程式zip的雜湊值)",
+    "target_dir": "main"
+  },
+  "modules": {
+    "accountingitems": {
+      "version": "1.0.0",
+      "filename": "module_accountingitems-v1.0.0.zip",
+      "sha256": "b52da212d5ba8a568093024ce8368e4adcd1b0a271d4af24758d70b3f5bf7f7b",
+      "target_dir": "modules/accountingitems-management"
+    },
+    "construction": {
+      "version": "1.0.0",
+      "filename": "module_construction-v1.0.0.zip",
+      "sha256": "3489d476d7544a75a9539ed1e5251e8657ba1d6aa968a289daac614029365dac",
+      "target_dir": "modules/construction-management"
+    },
+    "payment": {
+      "version": "1.0.2",
+      "filename": "module_payment_v1.0.2.zip",
+      "sha256": "05ce3efd33a88310991d7c349f5b3564440aa8660552723c64eb256f00e8e386",
+      "target_dir": "modules/payment-management"
+    },
+    "report": {
+      "version": "1.0.2",
+      "filename": "module_report_v1.0.2.zip",
+      "sha256": "7852832e4eb07eb82e3c211bc87281d77898f9440e08d5e401a8d004d27a142d",
+      "target_dir": "modules/report-management"
+    },
+    "transactions": {
+      "version": "1.0.2",
+      "filename": "module_transactions_v1.0.2.zip",
+      "sha256": "2113ac7d6361ac72be4f20e82ef7bd83e01d7a21c1d0b13f8d9b6662d1b30662",
+      "target_dir": "modules/transactions-management"
+    },
+    "user": {
+      "version": "1.0.2",
+      "filename": "module_user_v1.0.2.zip",
+      "sha256": "4bb12bcb6546b114962678c2b6c1152a4a65b5c55ddbe1239c92e28ccb47f984",
+      "target_dir": "modules/user-management"
+    },
+    "vendors": {
+      "version": "1.0.2",
+      "filename": "module_vendors_v1.0.2.zip",
+      "sha256": "441325830f48b411950c237b1cb2a9e27ce237ea0d99a25fbba1f4bdb4d70a81",
+      "target_dir": "modules/vendors-management"
+    },
+    "worktype": {
+      "version": "1.0.2",
+      "filename": "module_worktype_v1.0.2.zip",
+      "sha256": "c276369a2775a45b57c804bcfe22d026a271a06aec3d4761c03bdd4d9b1ba5d7",
+      "target_dir": "modules/worktype-management"
+    }
+  }
+}
