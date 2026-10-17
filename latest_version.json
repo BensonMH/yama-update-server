@@ -1,8 +1,8 @@
 {
   "main": {
     "version": "1.0.0",
-    "filename": "main_v1.0.0.modpkg",
-    "sha256": "7495f1e5cb04a7d4c20b096c0bf9dbbef1935f872cf35ef2c5b9f461103fac7c",
+    "filename": "main_v1.0.1.modpkg",
+    "sha256": "08904c25f91b012a92d72aeb34a07e0af3132810aca614d72bf672283b50fbde",
     "target_dir": ""
   },
   "modules": {
