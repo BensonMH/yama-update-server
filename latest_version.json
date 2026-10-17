@@ -1,51 +1,51 @@
 {
   "main": {
     "version": "1.0.1",
-    "filename": "main_v1.0.1.zip",
+    "filename": "main_v1.0.1.modpkg",
     "sha256": "3b682...(此主程式zip的雜湊值)",
     "target_dir": "main"
   },
   "modules": {
     "construction": {
       "version": "1.0.0",
-      "filename": "module_construction-v1.0.0.zip",
-      "sha256": "3489d476d7544a75a9539ed1e5251e8657ba1d6aa968a289daac614029365dac",
+      "filename": "module_construction_v1.0.0.modpkg",
+      "sha256": "417f4757be6024ade8f5c2fb11273ebb25011b3c4a83b1c30112856e582f3835",
       "target_dir": "modules/construction-management"
     },
     "payment": {
       "version": "1.0.2",
-      "filename": "module_payment_v1.0.2.zip",
-      "sha256": "05ce3efd33a88310991d7c349f5b3564440aa8660552723c64eb256f00e8e386",
+      "filename": "module_payment_v1.0.2.modpkg",
+      "sha256": "7f07fed7a54b5d902ffe5a7a0afa3e38a51f94c6c3fc602d17463fc9d1927975",
       "target_dir": "modules/payment-management"
     },
     "report": {
       "version": "1.0.2",
-      "filename": "module_report_v1.0.2.zip",
-      "sha256": "7852832e4eb07eb82e3c211bc87281d77898f9440e08d5e401a8d004d27a142d",
+      "filename": "module_report_v1.0.2.modpkg",
+      "sha256": "a71e656a4521edf961c6ae7e10293e86acb2433814f2a04b44239d94837c8f3e",
       "target_dir": "modules/report-management"
     },
     "transactions": {
       "version": "1.0.2",
-      "filename": "module_transactions_v1.0.2.zip",
-      "sha256": "2113ac7d6361ac72be4f20e82ef7bd83e01d7a21c1d0b13f8d9b6662d1b30662",
+      "filename": "module_transactions_v1.0.2.modpkg",
+      "sha256": "0e72d5104ff4f3e5187cfe87def65359661c38e9e4655c1683d113ca82082612",
       "target_dir": "modules/transactions-management"
     },
     "user": {
       "version": "1.0.2",
-      "filename": "module_user_v1.0.2.zip",
-      "sha256": "4bb12bcb6546b114962678c2b6c1152a4a65b5c55ddbe1239c92e28ccb47f984",
+      "filename": "module_user_v1.0.2.modpkg",
+      "sha256": "8989859b171ca435bba67fec495e7db4fd269ce944d1be2deb70ade5ed051176",
       "target_dir": "modules/user-management"
     },
     "vendors": {
       "version": "1.0.2",
-      "filename": "module_vendors_v1.0.2.zip",
-      "sha256": "441325830f48b411950c237b1cb2a9e27ce237ea0d99a25fbba1f4bdb4d70a81",
+      "filename": "module_vendors_v1.0.2.modpkg",
+      "sha256": "0be0d4414df9fba4331538deb4d5ef09a6ecb96230353d2b87df2c30953e9659",
       "target_dir": "modules/vendors-management"
     },
     "worktype": {
       "version": "1.0.2",
-      "filename": "module_worktype_v1.0.2.zip",
-      "sha256": "c276369a2775a45b57c804bcfe22d026a271a06aec3d4761c03bdd4d9b1ba5d7",
+      "filename": "module_worktype_v1.0.2.modpkg",
+      "sha256": "60d45c9c8a51a698b22687f4788ec36f0b607e27c108b20a5a78e9daf405ba86",
       "target_dir": "modules/worktype-management"
     }
   }
