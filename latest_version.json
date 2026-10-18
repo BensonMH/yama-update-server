@@ -1,52 +1,76 @@
 {
   "main": {
-    "version": "1.0.1",
-    "filename": "main_v1.0.1.modpkg",
-    "sha256": "08904c25f91b012a92d72aeb34a07e0af3132810aca614d72bf672283b50fbde",
+    "version": "1.0.0",
+    "filename": "main_v1.0.0.modpkg",
+    "sha256": "07c6f191671569f86cdc1d5f4b71d8a9e2f357c09548036c6f7a7a12a53b5ad5",
     "target_dir": ""
   },
   "modules": {
     "construction": {
       "version": "1.0.0",
       "filename": "module_construction_v1.0.0.modpkg",
-      "sha256": "e5890904dd5618766679f9d11d0b0b18fbe5fb3956b6dc7ee99a9b84e2faaf7b",
+      "sha256": "cb8f2ec84f45e4dbe0b9926a79b6be165181aa79ee7cbe468943a082571c767a",
       "target_dir": "modules/construction-management"
     },
     "payment": {
       "version": "1.0.0",
       "filename": "module_payment_v1.0.0.modpkg",
-      "sha256": "a71a94d082c3d05a336242fba6549a425ccd75116650c6e779fcb7fe61a00f1e",
+      "sha256": "b0667100b47a02d9a6700a8cc2b525d7f9f2c1edf11aa4fd5a3063ca2e3f31a6",
       "target_dir": "modules/payment-management"
     },
     "report": {
       "version": "1.0.0",
       "filename": "module_report_v1.0.0.modpkg",
-      "sha256": "4291704cab80ca79b5fecd5ae86f86d4a958265e2bc0b6bdfe59b903044fb356",
+      "sha256": "c04722bdc85d11ea0bd58cb1787b94b9f8bb658c6ce06d0a902996fc17911f02",
       "target_dir": "modules/report-management"
     },
     "transactions": {
       "version": "1.0.0",
       "filename": "module_transactions_v1.0.0.modpkg",
-      "sha256": "fda1e55ba5f0d508c3fd81081613587358b1fbc4d23a7144ff25422471513d72",
+      "sha256": "ec2a7ea52343d81ae7f63c94bb67b9bbf34175c2bfa2a037b7abadc9cc4a852c",
       "target_dir": "modules/transactions-management"
     },
     "user": {
       "version": "1.0.0",
       "filename": "module_user_v1.0.0.modpkg",
-      "sha256": "1299158c4f91fb73003657571d979f40260054c811cccabab2e3c3e853b82799",
+      "sha256": "e10a9fe3a07ab11be09907e4db1906c536bae3c889f580cec082ba53015dbad7",
       "target_dir": "modules/user-management"
     },
     "vendors": {
       "version": "1.0.0",
       "filename": "module_vendors_v1.0.0.modpkg",
-      "sha256": "d22d5d7c5730f23e6864971d30e4323e6a021808f27eb3b18f6d7bd015d56504",
+      "sha256": "282e29db0ca1793d783ccb925a3ccf150e8be58b6f04fa74195cce8051c74f05",
       "target_dir": "modules/vendors-management"
     },
     "worktype": {
       "version": "1.0.0",
       "filename": "module_worktype_v1.0.0.modpkg",
-      "sha256": "a25dc57434b43e5d6fadcd2a137bde1a214e09cbba6ba7ed920a23e8b19ba042",
+      "sha256": "19566b35b6e84d61cc7b1c23250391476c189d9146eea2cfbdcad2a59a9bfff6",
       "target_dir": "modules/worktype-management"
+    },
+    "xg-account-items": {
+      "version": "1.0.0",
+      "filename": "module_xg-account-items_v1.0.0.modpkg",
+      "sha256": "d9f4bd5933da826006317dfe61b38c8487829c7e91012104eac4ff2448bd099f",
+      "target_dir": "modules/xg-account-items-management"
+    },
+    "xg-report-config": {
+      "version": "1.0.0",
+      "filename": "module_xg-report-config_v1.0.0.modpkg",
+      "sha256": "60f50cd78fab6d7cd16e3f2abed26fc16e24c76d2f8abfd32d7a586fea8b1a70",
+      "target_dir": "modules/xg-report-config-management"
+    },
+    "xg-report": {
+      "version": "1.0.0",
+      "filename": "module_xg-report_v1.0.0.modpkg",
+      "sha256": "53e18703fd7b2c73c7f5e79908e5479d66baaf1da4cc91c3108b9806027b0a67",
+      "target_dir": "modules/xg-report-management"
+    },
+    "xg-transactions": {
+      "version": "1.0.0",
+      "filename": "module_xg-transactions_v1.0.0.modpkg",
+      "sha256": "7b6cc491891804f5175f117a171bf39cdc589b96d4d06239ae1f418e063384a6",
+      "target_dir": "modules/xg-transactions-management"
     }
   }
 }
